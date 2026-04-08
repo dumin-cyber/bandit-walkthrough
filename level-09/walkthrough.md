@@ -1,4 +1,4 @@
-# Bandit Level 8 →9X
+# Bandit Level 8 → 9 
 
 ## 🎯 Objective
 
